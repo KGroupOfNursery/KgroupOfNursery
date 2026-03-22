@@ -41,3 +41,12 @@ The website is designed to showcase services, attract customers, and provide con
 ---
 
 ## 📁 Project Structure
+
+KgroupOfNursery/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── images/
+├── video/
